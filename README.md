@@ -24,5 +24,6 @@ The To-Do List Manager app allows users to add new tasks, mark tasks as complete
 
 Android view Expo Go
 ![Expo GO Mobile Interface](./img/ExpoGoAndroid.jpg)
+
 iPhone 12 view Web version
 ![Web View](./img/iPhone12Web.png)
